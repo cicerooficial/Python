@@ -1,0 +1,10 @@
+numero1 = int(input("Digite um numero:"))
+numero2 = int(input("Digite outro numero:"))
+
+print("A soma de", numero1, "+", numero2, "é igual à:", numero1+numero2)
+print("A Subtração de", numero1, "-", numero2, "é igual à:", numero1-numero2)
+print("A Multiplicação de", numero1, "X", numero2, "é igual à:", numero1*numero2)
+print("A Divisão de", numero1, "%", numero2, "é igual à:", numero1/numero2)
+print("A Divisão de", numero1, "%", numero2, "é igual à:", numero1//numero2)
+print("O resto de", numero1, "dividido por", numero2, "é igual à:", numero1%numero2)
+print("O", numero1, "elevado à", numero2, "é igual à:", numero1**numero2)
