@@ -1,0 +1,76 @@
+Aula 1 
+
+Textos e Números
+Strings
+int e Floats
+
+print("String/Texto")
+print("numero")
+
+int num
+num = 2
+print(num)
+
+float num2
+num2 = 9.3
+print (num2)
+
+********************
+
+Pedindo dado pelo terminal
+input()
+
+input("Qual o seu nome?")
+
+nome = input("Qual o seu nome?")
+print("Oi" + nome)
+
+********************
+
+Operações básicas
+
+Soma
+Subtração
+Multiplicação
+Divisão
+Resto
+Potência
+
+********************
+Sabendo o tamanho das palavras[Strings]
+
+********************
+
+Exercícios
+https://repl.it/@camiladuartes_ site
+
+1. Perguntando Nome
+Escreva um programa que pergunte o nome da pessoa e imprima na tela uma saudação + o nome dela. Ex: Oi [nome da pessoa]
+
+2. Somando 2 Numeros
+Escreva um programa que possa digitar 2 números e imprima na tela a soma dos dois números digitados.
+
+3. Antecessor e Sucessor
+Escreva um programa que possa digitar um número e imprima na tela os números que vem antes e depois.
+
+4. Dobro, Triplo e Raiz Quadrada
+Escreva um programa que possa digitar um número e imprima na tela o Dobro, o Triplo e a Raiz quadrada do número digitado.
+
+5. Media Simples do Aluno
+Escreva um programa que possa digitar o nome do aluno e as 4 notas do semestre e imprima na tela o nome e a nota da média.
+
+6. Tabuada
+Escreva um programa que possa digitar um número e imprima a tabuada do número digitado.
+
+7. Desconto no preço
+Escreva um programa que possa digitar o preço do produto ex: 10.00 e imprima na tela o preço do produto e quanto fica com desconto de 5%.
+
+8. Conversor de Moeda
+Escreva um programa que possa digitar o valor em reais R$ e imprima na tela o valor e convertido em dólar US$.
+
+9. Conversor de Metros
+Escreva um programa que possa digitar o valor em metros e imprima na tela o valor em Km (kilômetros), Cm (Centímetros) e mm (Milímetros).
+
+10. Preciso Pintar Parede
+Escreva um programa que possa digitar a largura da parede e a altura e imprima na tela qua a área total da parede (em M²) e quantos litros de tinta será necessário.
+
