@@ -1,6 +1,6 @@
 Aula 1 
 
-Textos e Números
+Textos e NÃºmeros
 Strings
 int e Floats
 
@@ -27,50 +27,53 @@ print("Oi" + nome)
 
 ********************
 
-Operações básicas
+OperaÃ§Ãµes bÃ¡sicas
 
 Soma
-Subtração
-Multiplicação
-Divisão
+SubtraÃ§Ã£o
+MultiplicaÃ§Ã£o
+DivisÃ£o
 Resto
-Potência
+PotÃªncia
 
 ********************
 Sabendo o tamanho das palavras[Strings]
 
 ********************
 
-Exercícios
+ExercÃ­cios
 https://repl.it/@camiladuartes_ site
 
 1. Perguntando Nome
-Escreva um programa que pergunte o nome da pessoa e imprima na tela uma saudação + o nome dela. Ex: Oi [nome da pessoa]
+Escreva um programa que pergunte o nome da pessoa e imprima na tela uma saudaÃ§Ã£o + o nome dela. Ex: Oi [nome da pessoa]
 
 2. Somando 2 Numeros
-Escreva um programa que possa digitar 2 números e imprima na tela a soma dos dois números digitados.
+Escreva um programa que possa digitar 2 nÃºmeros e imprima na tela a soma dos dois nÃºmeros digitados.
 
 3. Antecessor e Sucessor
-Escreva um programa que possa digitar um número e imprima na tela os números que vem antes e depois.
+Escreva um programa que possa digitar um nÃºmero e imprima na tela os nÃºmeros que vem antes e depois.
 
 4. Dobro, Triplo e Raiz Quadrada
-Escreva um programa que possa digitar um número e imprima na tela o Dobro, o Triplo e a Raiz quadrada do número digitado.
+Escreva um programa que possa digitar um nÃºmero e imprima na tela o Dobro, o Triplo e a Raiz quadrada do nÃºmero digitado.
 
 5. Media Simples do Aluno
-Escreva um programa que possa digitar o nome do aluno e as 4 notas do semestre e imprima na tela o nome e a nota da média.
+Escreva um programa que possa digitar o nome do aluno e as 4 notas do semestre e imprima na tela o nome e a nota da mÃ©dia.
 
-6. Tabuada
-Escreva um programa que possa digitar um número e imprima a tabuada do número digitado.
+6. Calculadora Simples
+Escreva um programa que possa digitar um nÃºmero e imprima na tela todas as operaÃ§Ãµes da calculadora (Soma, SubtraÃ§Ã£o, MultiplicaÃ§Ã£o, DivisÃ£o, Resto e PotÃªncia)
 
-7. Desconto no preço
-Escreva um programa que possa digitar o preço do produto ex: 10.00 e imprima na tela o preço do produto e quanto fica com desconto de 5%.
+7. Tabuada
+Escreva um programa que possa digitar um nÃºmero e imprima na tela a tabuada do nÃºmero digitado.
 
-8. Conversor de Moeda
-Escreva um programa que possa digitar o valor em reais R$ e imprima na tela o valor e convertido em dólar US$.
+8. Desconto no preÃ§o
+Escreva um programa que possa digitar o preÃ§o do produto ex: 10.00 e imprima na tela o preÃ§o do produto e quanto fica com desconto de 5%.
 
-9. Conversor de Metros
-Escreva um programa que possa digitar o valor em metros e imprima na tela o valor em Km (kilômetros), Cm (Centímetros) e mm (Milímetros).
+9. Conversor de Moeda
+Escreva um programa que possa digitar o valor em reais R$ e imprima na tela o valor e convertido em dÃ³lar US$.
 
-10. Preciso Pintar Parede
-Escreva um programa que possa digitar a largura da parede e a altura e imprima na tela qua a área total da parede (em M²) e quantos litros de tinta será necessário.
+10. Conversor de Metros
+Escreva um programa que possa digitar o valor em metros e imprima na tela o valor em Km (kilÃ´metros), Cm (CentÃ­metros) e mm (MilÃ­metros).
+
+11. Preciso Pintar Parede
+Escreva um programa que possa digitar a largura da parede e a altura e imprima na tela qua a Ã¡rea total da parede (em MÂ²) e quantos litros de tinta serÃ¡ necessÃ¡rio.
 
